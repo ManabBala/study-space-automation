@@ -1,0 +1,3 @@
+PyAutoGUI~=0.9.53
+PyWinCtl~=0.0.42
+pyvda~=0.2.8
